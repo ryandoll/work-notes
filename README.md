@@ -18,3 +18,5 @@ Material UI vs Fabric UI vs Ant
 | Theme Component Override | 9 | 7 | ?
 | RTL Support | Yes | Yes | No |
 | TypeScript Support | Yes | Yes | Yes |
+| Complex Table | No | Yes | Yes |
+| Community Components | 10 | 4 | ? |
